@@ -1,0 +1,401 @@
+[
+  {
+    "name": "IAI",
+    "source": "Google: AI legal assistant startup 2024 2025",
+    "category": "legal_tech",
+    "confidence": "medium",
+    "relevance": "direct"
+  },
+  {
+    "name": "Harvey AI",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "direct"
+  },
+  {
+    "name": "CoCounsel",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "DoNotPay",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "LawGeex",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Luminance",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "ROSS Intelligence",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Kira Systems",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Lex Machina",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Ironclad",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Contract Wrangler",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Legal Robot",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "direct"
+  },
+  {
+    "name": "Evisort",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "ContractPodAi",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "direct"
+  },
+  {
+    "name": "Spellbook",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Robin AI",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "direct"
+  },
+  {
+    "name": "Briefpoint",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Abel",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Gideon Legal",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Casetext",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Blue J Legal",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Eigen Technologies",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "ThoughtRiver",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Seal Software",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Automata",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "LawDroid",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Neota Logic",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Axiom Law",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Elevate Services",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Intapp",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "iManage",
+    "source": "Startup Database",
+    "category": "legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "LawPilots",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Rechtspanda",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Legal Tribune Online AI",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "direct"
+  },
+  {
+    "name": "Kanzlei-Software.de AI",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "direct"
+  },
+  {
+    "name": "Smartlaw",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Flightright",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "SirionLabs",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Juve Patent",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Legal One",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Leverton",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Parashift",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Mindbridge AI",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "direct"
+  },
+  {
+    "name": "Legartis",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Kiiac",
+    "source": "Legal Tech Directory",
+    "category": "german_legal_tech",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "ChatGPT (OpenAI)",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "direct"
+  },
+  {
+    "name": "Claude (Anthropic)",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Gemini (Google)",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "LegalZoom",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Rocket Lawyer",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Nolo",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "LegalMatch",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "indirect"
+  },
+  {
+    "name": "Avvo",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "Clio",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "MyCase",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "PracticePanther",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "peripheral"
+  },
+  {
+    "name": "TimeSolv",
+    "source": "Known Competitor",
+    "category": "oratio_competitor",
+    "confidence": "high",
+    "relevance": "peripheral"
+  }
+]
